@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Colin Maloney
-- 👀 I’m interested in Game Development, and Web Development
-- 🌱 I’m currently learning C++ for Unreal and other applications aswell as the Next web framework.
+- 👀 I’m interested in Web Development, Software Engineering and Game Development
+- 🌱 Founder of Web Tech CD, website development and consultation business.
 
 <!---
 Best-code/Best-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
