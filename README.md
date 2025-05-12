@@ -4,7 +4,6 @@ I’m a passionate and driven student with a deep interest in **Game Development
 
 ## 🔭 Current Focus
 
-- 🔊 Digital Signal Processing: I have a strong foundation in DSP, where I work on audio signal manipulation, filters, and algorithms for real-time audio processing.
 - 🌐 Full Stack Development: I’m honing my skills in C# for both front-end and back-end, building scalable and efficient applications.
 
 ## 🌱 About Me
@@ -15,7 +14,6 @@ I’m a passionate and driven student with a deep interest in **Game Development
 ## 💡 What I'm Learning
 
 - 📚 Continuing my studies in **Computer Science**.
-- 🚀 Exploring more advanced **Full Stack Development** and **Web APIs**.
 - 🎧 Deepening my understanding of **Digital Signal Processing** and **Audio Engineering**.
 
 ## 🌍 Find Me Online
