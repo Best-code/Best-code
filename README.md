@@ -17,7 +17,7 @@ I’m a passionate and driven student with a deep interest in **Game Development
 - 🎧 Deepening my understanding of **Digital Signal Processing** and **Audio Engineering**.
 
 ## 🌍 Find Me Online
-- 💼 [https://www.linkedin.com/in/colinpmaloney/](#) (if you have one)
+- 💼 [https://www.linkedin.com/in/colinpmaloney/](#)
 
 ---
 
