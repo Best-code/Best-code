@@ -6,7 +6,7 @@ CS senior at Florida State University (May 2026) with a focus on **Data Engineer
 
 - **Data Engineer Intern @ ScratchOdds** — Building automated pipelines that scrape lottery statistics across 35+ US states, extracting 30+ data points per game on a twice-daily schedule, working with Python, Playwright, PostgreSQL, and Anthropic API for OCR-based text extraction.
 
-- **Track Tracker** (in progress) — A data platform that detects emerging music tracks before they hit mainstream charts by monitoring Spotify and Soundcloud signals. Built with Airflow, AWS, PostgreSQL, FastAPI, and Streamlit.
+- **Track Tracker** (in progress) — A data platform that detects emerging music tracks before they hit mainstream charts by monitoring Spotify and Soundcloud signals. Built with Airflow, AWS, PostgreSQL, FastAPI, and Next.JS.
 
 ## 🛠 Projects
 
