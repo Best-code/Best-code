@@ -1,24 +1,39 @@
-# 👋 Hi, I’m Colin Maloney
+# 👋 Hi, I'm Colin Maloney
 
-I’m a passionate and driven student with a deep interest in **Game Development**, **Digital Signal Processing (DSP)**, and **Full Stack Development**. I love exploring new technologies, building innovative projects, and learning new techniques to solve complex problems.
+CS senior at Florida State University (May 2026) with a focus on **Data Engineering** and **Backend Development**. I enjoy turning messy, unstructured data into something queryable and useful.
 
-## 🔭 Current Focus
+## 🔭 What I'm Working On
 
-- 🌐 Full Stack Development: I’m honing my skills in C# for both front-end and back-end, building scalable and efficient applications.
+- **Data Engineer Intern @ ScratchOdds** — Building automated pipelines that scrape lottery statistics across 35+ US states, extracting 30+ data points per game on a twice-daily schedule. Working with Python, Playwright, PostgreSQL, and Anthropic API for OCR-based text extraction.
 
-## 🌱 About Me
+- **Track Tracker** (in progress) — A data platform that detects emerging music tracks before they hit mainstream charts by monitoring Spotify and Soundcloud signals. Built with Airflow, AWS, PostgreSQL, FastAPI, and Streamlit.
 
-- 🎓 **Current Student at Florida State University** with an expected graduation date of **May 2026**.
-- 👨‍💻 I’ve worked on projects ranging from machine learning models and website development to audio processing algorithms, and I’m always looking to take on new challenges and grow my technical expertise.
+## 🛠 Projects
 
-## 💡 What I'm Learning
+**[House of Representatives Stock Tracker](https://github.com/Best-Code/your-repo)**
+Python desktop app automating the extraction of congressional stock trade data from official U.S. Clerk sources. SQLite database with Qt/PySide6 GUI for querying and filtering trades.
 
-- 📚 Continuing my studies in **Computer Science**.
-- 🎧 Deepening my understanding of **Digital Signal Processing** and **Audio Engineering**.
+**[Hot Plot](https://github.com/Best-Code/your-repo)**
+Web app visualizing potential wildfires using NASA FIRMS API, PostgreSQL, and GeoJSON for geospatial modeling. Built with a 3-person team.
 
-## 🌍 Find Me Online
-- 💼 [https://www.linkedin.com/in/colinpmaloney/](#)
+## 💡 Interests
+
+- Data Engineering
+- Backend systems
+- Music production
+
+## 🧰 Tech Stack
+
+**Languages:** Python, SQL, C, C++, C#, Java, JavaScript
+
+**Technologies:** Airflow, AWS, PostgreSQL, Docker, FastAPI, BeautifulSoup, Playwright, Git
+
+**Concepts:** Data Engineering, System Design, Parallel Processing
+
+## 📫 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-colinpmaloney-blue?style=flat&logo=linkedin)](https://linkedin.com/in/colinpmaloney)
 
 ---
 
-Looking forward to connecting with others in the development community!
+*FAA Private Pilot | Music Producer | Rock Climber | Skier*
