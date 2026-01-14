@@ -4,16 +4,16 @@ CS senior at Florida State University (May 2026) with a focus on **Data Engineer
 
 ## 🔭 What I'm Working On
 
-- **Data Engineer Intern @ ScratchOdds** — Building automated pipelines that scrape lottery statistics across 35+ US states, extracting 30+ data points per game on a twice-daily schedule. Working with Python, Playwright, PostgreSQL, and Anthropic API for OCR-based text extraction.
+- **Data Engineer Intern @ ScratchOdds** — Building automated pipelines that scrape lottery statistics across 35+ US states, extracting 30+ data points per game on a twice-daily schedule, working with Python, Playwright, PostgreSQL, and Anthropic API for OCR-based text extraction.
 
 - **Track Tracker** (in progress) — A data platform that detects emerging music tracks before they hit mainstream charts by monitoring Spotify and Soundcloud signals. Built with Airflow, AWS, PostgreSQL, FastAPI, and Streamlit.
 
 ## 🛠 Projects
 
-**[House of Representatives Stock Tracker](https://github.com/Best-Code/your-repo)**
+**[House of Representatives Stock Tracker](https://github.com/Best-code/HouseRep-Trades)**
 Python desktop app automating the extraction of congressional stock trade data from official U.S. Clerk sources. SQLite database with Qt/PySide6 GUI for querying and filtering trades.
 
-**[Hot Plot](https://github.com/Best-Code/your-repo)**
+**[Hot Plot](https://github.com/Best-code/HotPlot)**
 Web app visualizing potential wildfires using NASA FIRMS API, PostgreSQL, and GeoJSON for geospatial modeling. Built with a 3-person team.
 
 ## 💡 Interests
