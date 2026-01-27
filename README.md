@@ -26,11 +26,11 @@ Web app visualizing potential wildfires using NASA FIRMS API, PostgreSQL, and Ge
 
 **Languages:** C, C++, C#, CSS, HTML, Java, JavaScript, Python, SQL, TypeScript
 
-**Technologies:** .NET Maui, Anthropic API, AWS, BeautifulSoup, boto3, Docker, FastAPI, Git, Github Actions, Next.js, Node.js, NumPy, Pandas, Playwright, React.js, Redis, REST APIs, Sanity CMS, Scikit-learn, Slack, Tailwind CSS, Qt, Node Mailer
+**Technologies:** .NET MAUI, Anthropic API, AWS, BeautifulSoup, boto3, Docker, FastAPI, Git, GitHub Actions, Next.js, Node.js, Node Mailer, NumPy, Pandas, Playwright, Qt, React.js, Redis, REST APIs, Sanity CMS, Scikit-learn, Tailwind CSS
 
 **Databases:** Firebase, PostgreSQL, SQLite, SQLAlchemy, NoSQL
 
-**Concepts:** Agile, Automation, CI/CD, Cloud Infrastructure, DevOps, Data Engineering, ETL, Generative AI, Linux/Unix, LLM, Machine Learning, Operating Systems, Parallel Processing, Prompt Engineering, System Design, Web Scraping, Unit Test, Performance Optimization, Data Modeling
+**Concepts:** Agile, Automation, CI/CD, Cloud Infrastructure, Data Engineering, DevOps, ETL, Generative AI, LLM, Machine Learning, Parallel Processing, Prompt Engineering, System Design, Web Scraping
 
 ## 📫 Find Me
 
