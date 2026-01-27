@@ -10,25 +10,27 @@ CS senior at Florida State University (May 2026) with a focus on **Data Engineer
 
 ## 🛠 Projects
 
-**[House of Representatives Stock Tracker](https://github.com/Best-code/HouseRep-Trades)**
+**[House of Representatives Stock Tracker](https://github.com/colinpmaloney/HouseRep-Trades)**
 Python desktop app automating the extraction of congressional stock trade data from official U.S. Clerk sources. SQLite database with Qt/PySide6 GUI for querying and filtering trades.
 
-**[Hot Plot](https://github.com/Best-code/HotPlot)**
+**[Hot Plot](https://github.com/colinpmaloney/HotPlot)**
 Web app visualizing potential wildfires using NASA FIRMS API, PostgreSQL, and GeoJSON for geospatial modeling. Built with a 3-person team.
 
 ## 💡 Interests
-
+ 
 - Data Engineering
 - Backend systems
 - Music production
 
 ## 🧰 Tech Stack
 
-**Languages:** Python, SQL, C, C++, C#, Java, JavaScript
+**Languages:** C, C++, C#, CSS, HTML, Java, JavaScript, Python, SQL, TypeScript
 
-**Technologies:** Airflow, AWS, PostgreSQL, Docker, FastAPI, BeautifulSoup, Playwright, Git
+**Technologies:** .NET Maui, Anthropic API, AWS, BeautifulSoup, boto3, Docker, FastAPI, Git, Github Actions, Next.js, Node.js, NumPy, Pandas, Playwright, React.js, Redis, REST APIs, Sanity CMS, Scikit-learn, Slack, Tailwind CSS, Qt, Node Mailer
 
-**Concepts:** Data Engineering, System Design, Parallel Processing
+**Databases:** Firebase, PostgreSQL, SQLite, SQLAlchemy, NoSQL
+
+**Concepts:** Agile, Automation, CI/CD, Cloud Infrastructure, DevOps, Data Engineering, ETL, Generative AI, Linux/Unix, LLM, Machine Learning, Operating Systems, Parallel Processing, Prompt Engineering, System Design, Web Scraping, Unit Test, Performance Optimization, Data Modeling
 
 ## 📫 Find Me
 
